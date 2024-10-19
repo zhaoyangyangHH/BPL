@@ -1,4 +1,4 @@
-# RBootstrapped Policy Learning for Task-oriented Dialogue through Goal Shaping <br />
+# Bootstrapped Policy Learning for Task-oriented Dialogue through Goal Shaping <br />
 
 
 This document describes how to run the simulation of BPL Agent.  <br />
